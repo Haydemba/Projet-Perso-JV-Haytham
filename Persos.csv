@@ -1,0 +1,114 @@
+﻿Nom;Franchise;Genre;Première Apparition;Jouable;Espèce;Console;Morale;Mascotte ?
+Mario;Super Mario;Masculin;1981;Oui;Humain;NES;Héros;Oui
+Luigi;Super Mario;Masculin;1983;Oui;Humain;NES;Héros;Oui
+Peach;Super Mario;Féminin;1985;Oui;Humaine;NES;Héroïne;Oui
+Yoshi;Super Mario;Masculin;1990;Oui;Dinosaure;SNES;Héros;Oui
+Toad;Super Mario;Masculin;1985;Oui;Champignon humanoïde;NES;Neutre;Non
+Bowser;Super Mario;Masculin;1985;Oui;Koopa;NES;Méchant;Oui
+Wario;Super Mario;Masculin;1992;Oui;Humain;Game Boy;Méchant;Non
+Waluigi;Super Mario;Masculin;2000;Oui;Humain;Nintendo 64;Méchant;Non
+Min Min;ARMS;Féminin;2017;Oui;Humaine;Switch;Héroïne;Non
+Isabelle;Animal Crossing;Féminin;2012;Oui;Chien;3DS;Héroïne;Oui
+Tom Nook;Animal Crossing;Masculin;2001;Oui;Tanuki;GameCube;Neutre;Oui
+Villager;Animal Crossing;Inconnu;2001;Oui;Humain;GameCube;Neutre;Oui
+Ezio Auditore;Assassin's Creed;Masculin;2009;Oui;Humain;Multi;Héros;Oui
+Banjo;Banjo-Kazooie;Masculin;1998;Oui;Ours;Nintendo 64;Héros;Non
+Kazooie;Banjo-Kazooie;Féminin;1998;Oui;Oiseau;Nintendo 64;Héroïne;Non
+Bayonetta;Bayonetta;Féminin;2009;Oui;Sorcière;PlayStation;Anti-héroïne;Oui
+Alucard;Castlevania;Masculin;1997;Oui;Vhampire;PlayStation;Anti-héros;Oui
+Simon Belmont;Castlevania;Masculin;1986;Oui;Humain;NES;Héros;Oui
+Crash Bandicoot;Crash Bandicoot;Masculin;1996;Oui;Bandicoot;PlayStation;Héros;Oui
+Coco Bandicoot;Crash Bandicoot;Féminin;1997;Oui;Bandicoot;PlayStation;Héroïne;Non
+Cuphead;Cuphead;Masculin;2017;Oui;Tasse;PC;Héros;Oui
+Mugman;Cuphead;Masculin;2017;Oui;Mug;PC;Héros;Non
+Isaac Clarke;Dead Space;Masculin;2008;Oui;Humain;PlayStation;Héros;Non
+Dante;Devil May Cry;Masculin;2001;Oui;Humain/Démon;PlayStation;Anti-héros;Oui
+Donkey Kong;Donkey Kong;Masculin;1981;Oui;Gorille;NES;Héros;Oui
+Duck Hunt Duo;Duck Hunt;Inconnu;1984;Oui;Chien et Canard;NES;Neutre;Oui
+Captain Falcon;F-Zero;Masculin;1990;Oui;Humain;SNES;Héros;Oui
+Jason Brody;Far Cry 3;Masculin;2012;Oui;Humain;Multi;Héros;Non
+Cloud Strife;Final Fantasy;Masculin;1997;Oui;Humain;PlayStation;Héros;Oui
+Sephiroth;Final Fantasy;Masculin;1997;Non;Humain;PlayStation;Méchant;Oui
+Tifa Lockhart;Final Fantasy;Féminin;1997;Oui;Humaine;PlayStation;Héroïne;Oui
+Barret Wallace;Final Fantasy;Masculin;1997;Oui;Humain;PlayStation;Héros;Non
+Marth;Fire Emblem;Masculin;1990;Oui;Humain;Famicom;Héros;Oui
+Lucina;Fire Emblem;Féminin;2012;Oui;Humaine;3DS;Héroïne;Oui
+Ike;Fire Emblem;Masculin;2005;Oui;Humain;GameCube;Héros;Oui
+Byleth;Fire Emblem;Masculin/Féminin;2019;Oui;Humain;Switch;Héros;Non
+Niko Bellic;GTA IV;Masculin;2008;Oui;Humain;PlayStation;Anti-héros;Non
+Trevor Philips;GTA V;Masculin;2013;Oui;Humain;PlayStation;Méchant;Oui
+Michael De Santa;GTA V;Masculin;2013;Oui;Humain;PlayStation;Anti-héros;Non
+Franklin Clinton;GTA V;Masculin;2013;Oui;Humain;PlayStation;Héros;Non
+CJ;GTA: San Andreas;Masculin;2004;Oui;Humain;PlayStation;Anti-héros;Oui
+Tommy Vercetti;GTA: Vice City;Masculin;2002;Oui;Humain;PlayStation;Anti-héros;Non
+Kratos;God of War;Masculin;2005;Oui;Demi-dieu;PlayStation;Anti-héros;Oui
+R.O.B.;Gyromite;Inconnu;1985;Oui;Robot;NES;Neutre;Oui
+Gordon Freeman;Half-Life;Masculin;1998;Oui;Humain;PC;Héros;Oui
+Master Chief;Halo;Masculin;2001;Oui;Humain;Xbox;Héros;Oui
+Hollow Knight;Hollow Knight;Inconnu;2017;Oui;Insecte;PC;Héros;Non
+Aloy;Horizon;Féminin;2017;Oui;Humaine;PlayStation;Héroïne;Oui
+Sora;Kingdom Hearts;Masculin;2002;Oui;Humain;PlayStation;Héros;Oui
+Kirby;Kirby;Inconnu;1992;Oui;Guerrier étoile;Game Boy;Héros;Oui
+Meta Knight;Kirby;Masculin;2003;Oui;Chevalier;Game Boy Advance;Anti-héros;Oui
+Roi DaDiDou;Kirby;Masculin;1992;Oui;Pingouin;SNES;Méchant;Oui
+Chun;League of Legends;Féminin;2009;Oui;Humaine;PC;Héroïne;Oui
+Commander Shepard;Mass Effect;Masculin/Féminin;2007;Oui;Humain;Xbox;Héros;Oui
+Max Payne;Max Payne;Masculin;2001;Oui;Humain;PC;Anti-héros;Non
+Mega Man;Mega Man;Masculin;1987;Oui;Robot;NES;Héros;Oui
+Zero;Mega Man X;Masculin;1993;Oui;Robot;SNES;Héros;Non
+Samus Aran;Metroid;Féminin;1986;Oui;Humaine;NES;Héroïne;Oui
+Ridley;Metroid;Masculin;1986;Oui;Pirate de l’espace;NES;Méchant;Oui
+Steve;Minecraft;Masculin;2009;Oui;Humain;PC;Neutre;Oui
+Faith Connors;Mirror's Edge;Féminin;2008;Oui;Humaine;PC;Héroïne;Non
+Scorpion;Mortal Kombat;Masculin;1992;Oui;Ninja mort-vivant;Arcade;Anti-héros;Oui
+Sub-Zero;Mortal Kombat;Masculin;1992;Oui;Ninja mort-vivant;Arcade;Héros;Oui
+Mii Fighter;Nintendo;Inconnu;2006;Oui;Humain;Wii;Neutre;Oui
+Ori;Ori and the Blind Forest;Inconnu;2015;Oui;Esprit;PC;Héros;Oui
+Joker;Persona 5;Masculin;2016;Oui;Humain;PlayStation;Anti-héros;Oui
+Pikachu;Pokémon;Variable;1996;Oui;Pokémon;Game Boy;Héros;Oui
+Little Mac;Punch-Out!!;Masculin;1987;Oui;Humain;NES;Héros;Non
+Rayman;Rayman;Masculin;1995;Oui;Inconnu;PlayStation;Héros;Oui
+Arthur Morgan;Red Dead Redemption 2;Masculin;2018;Oui;Humain;PlayStation;Anti-héros;Oui
+Leon S. Kennedy;Resident Evil;Masculin;1998;Oui;Humain;PlayStation;Héros;Oui
+Jill Valentine;Resident Evil;Féminin;1996;Oui;Humaine;PlayStation;Héroïne;Oui
+Chris Redfield;Resident Evil;Masculin;1996;Oui;Humain;PlayStation;Héros;Oui
+Claire Redfield;Resident Evil;Féminin;1998;Oui;Humaine;PlayStation;Héroïne;Non
+Ada Wong;Resident Evil;Féminin;1998;Oui;Humaine;PlayStation;Anti-héroïne;Non
+Albert Wesker;Resident Evil;Masculin;1996;Oui;Humain;PlayStation;Méchant;Non
+Shovel Knight;Shovel Knight;Masculin;2014;Oui;Chevalier;Multi;Héros;Non
+Sonic;Sonic the Hedgehog;Masculin;1991;Oui;Hérisson;SEGA Genesis;Héros;Oui
+Tails;Sonic the Hedgehog;Masculin;1992;Oui;Renard;SEGA Genesis;Héros;Non
+Knuckles;Sonic the Hedgehog;Masculin;1994;Oui;Échidné;SEGA Genesis;Anti-héros;Non
+Shadow;Sonic the Hedgehog;Masculin;1999;Oui;Hérisson;SEGA Dreamcast;Anti-héros;Non
+Amy Rose;Sonic the Hedgehog;Féminin;1993;Oui;Hérisson;SEGA Genesis;Héroïne;Non
+Dr. Eggman;Sonic the Hedgehog;Masculin;1991;Oui;Humain;SEGA Genesis;Méchant;Non
+Inkling;Splatoon;Inconnu;2015;Oui;Inkling;Wii U;Neutre;Oui
+Sam Fisher;Splinter Cell;Masculin;2002;Oui;Humain;PC;Héros;Non
+Spyro;Spyro the Dragon;Masculin;1998;Oui;Dragon;PlayStation;Héros;Oui
+Fox McCloud;Star Fox;Masculin;1993;Oui;Renard;SNES;Héros;Oui
+Chun-Li;Street Fighter;Féminin;1987;Oui;Humaine;Arcade;Héroïne;Oui
+Ryu;Street Fighter;Masculin;1987;Oui;Humain;Arcade;Héros;Oui
+Geno;Super Mario RPG;Masculin;1996;Oui;Poupée animée;SNES;Héros;Oui
+Jin Kazama;Tekken;Masculin;1996;Oui;Humain;PlayStation;Anti-héros;Oui
+Kazuya Mishima;Tekken;Masculin;1994;Oui;Humain;PlayStation;Anti-héros;Oui
+Ellie;The Last of Us;Féminin;2013;Oui;Humaine;PlayStation;Héroïne;Oui
+Joel;The Last of Us;Masculin;2013;Oui;Humain;PlayStation;Anti-héros;Oui
+Link;The Legend of Zelda;Masculin;1986;Oui;Hylien;NES;Héros;Oui
+Zelda;The Legend of Zelda;Féminin;1986;Oui;Hylienne;NES;Héroïne;Oui
+Tingle;The Legend of Zelda;Masculin;2000;Oui;Humain;Nintendo 64;Neutre;Non
+Ciri;The Witcher;Féminin;2015;Oui;Humaine;PC;Héroïne;Non
+Geralt de Riv;The Witcher;Masculin;2007;Oui;Sorceleur;PC;Anti-héros;Oui
+Lara Croft;Tomb Raider;Féminin;1996;Oui;Humaine;PlayStation;Héroïne;Oui
+Nathan Drake;Uncharted;Masculin;2007;Oui;Humain;PlayStation;Héros;Oui
+Sans;Undertale;Masculin;2015;Oui;Squelette;PC;Anti-héros;Oui
+Frisk;Undertale;Féminin;2015;Oui;Humaine;PC;Neutre;Non
+Papyrus;Undertale;Masculin;2015;Oui;Squelette;PC;Héros;Non
+Chara;Undertale;Inconnu;2015;Oui;Humaine;PC;Anti-héros;Non
+Shulk;Xenoblade Chronicles;Masculin;2010;Oui;Humain;Wii;Héros;Oui
+Rex;Xenoblade Chronicles;Masculin;2017;Oui;Humain;Nintendo Switch;Héros;Non
+Pyra;Xenoblade Chronicles;Féminin;2017;Oui;Lame;Nintendo Switch;Héroïne;Non
+Mythra;Xenoblade Chronicles;Féminin;2017;Oui;Lame;Nintendo Switch;Héroïne;Non
+Freddy Fazbear;Five Nights at Freddy's;Masculin;2014;Oui;Animatronique;PC;Méchant;Oui
+Tracer;Overwatch;Féminin;2016;Oui;Humaine;PC;Héroïne;Oui
+Chell;Portal;Féminin;2007;Oui;Humaine;PC;Héroïne;Non
+GLaDOS;Portal;Féminin;2007;Non;Intelligence Artificielle;PC;Méchante;Oui
